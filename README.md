@@ -1,0 +1,1 @@
+Aqui les dejo my codigo de python, o bueno mi repositorio, este usa python version 3.12.9
